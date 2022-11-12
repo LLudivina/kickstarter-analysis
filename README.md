@@ -21,7 +21,7 @@ This graph shows the percent of campaigns that were successful, failed, or were 
 One of the difficulties I encountered when creating this graph was keeping track of the amounts. For example, a zero was sometimes left out during the calculation and this let to different values on the graph.  To overcome this problem, I had to double check the data at various time points during the calculations. 
 
 ### Challenges and Difficulties Encountered
-There were a couple of challenges that had to be addressed after downloading the crowdfunding data.  The data was provided as a tabular data that had to be filtered, formatted, or made readable.  Any Unix timestamps data was first confirmed and then converted using the timestamp converter. I also used conditional formatting to prepare the data for the creation of visualizations.  By using Pivot Tables, I was able to create the first deliverable, a graph titled outcomes based on launch date.  The second deliverable, a graph titled outcomes based on launch data, was created using a simple line chart on excel. 
+There were a couple of challenges that had to be addressed after downloading the crowdfunding data.  The data was provided as a tabular data that had to be filtered, formatted, or made readable.  Any Unix timestamps data was first confirmed and then converted using the timestamp converter. I also used conditional formatting to prepare the data for the creation of visualizations.  By using Pivot Tables, I was able to create the first deliverable, the Outcomes Based on Launch Date graph.  The second deliverable, the graph titled Outcomes Based on Goals, was created using a simple line chart on excel. 
 
 ## Results
 Based on the graph, Outcome Based on Launch Date, there are more successful campaigns than failed or canceled campaigns. This is a good indication for Louise.  To mirror a successful campaign, she should focus on campaigns launched in the month of May.  Overall, Louise should launch her campaign in the summer and avoid launching her campaign in the winter. 
@@ -30,6 +30,6 @@ Based on the graph, Outcome Based on Goals, Louise has a little under 60% chance
 
 Aside the results, this project had some limitations in the data.  For example, the current data has information from different countries, but each subgroup is somewhat small. It would be helpful if data from a larger sample size could be provided. Also, the outcomes based on launch date graph could benefit from a unit on the y-axis. The graph shows 0 to 120, but that could be the number of individual people or millions of people.  Since I used the data, I know the value, but it may not be so clear to Louise or someone else.
 
-Another graphs that can be created for this project is a bar chart to compare a successful vs failed campaign per month.
+Another graphs that can be created for this project is a bar chart to compare a successful vs failed campaign on a specific month.
 
 
