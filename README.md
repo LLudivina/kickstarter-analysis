@@ -12,7 +12,7 @@ The purpose of this project is to create two Analyses, one with outcomes based o
 One of the difficulties that were encountered during this part of the analysis was the conversion of time from epoch dates to human-readable dates.  It can be a bit confusing to use the converter.  My approach was mainly trial and error. 
 
 ### Analysis of Outcome Based on Goals
-![deliverable #2](kickstarter-analysis/resources/Outcomes_vs_Goals.png)
+![deliverable #2](https://github.com/LLudivina/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 Double checking the data was one of the difficulties that were encountered when creating this graph.  A zero was sometimes left out during the calculation.  This let to different values on the graph.  To overcome this problem, the data was double checked at various time points during the calculations. 
 
