@@ -11,8 +11,7 @@ The purpose of this project is to create two analyses, one with outcomes based o
 ![deliverable #1](https://github.com/LLudivina/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 With this graph, we can track the campaigns that were successful.  We can also track the campaigns that failed and the ones that were canceled. By considering the months, we can see on which specific month a campaign was the most successful.  In this case, it was within the month of May.
 
-These months were extracted from the campaign dates found in the crowdfunding data.  However, the campaign dates were not readable.  
-Hence a unix timestamp converter had to be used and this was one of the difficulties that I encountered during this part of the analysis.  The conversion of time from epoch dates to human-readable dates can be a bit confusing to use at the beginning. My approach was mainly trial and error. 
+These months were extracted from the campaign dates found in the crowdfunding data.  However, the campaign dates were not readable.  Hence a unix timestamp converter had to be used and this was one of the difficulties that I encountered during this part of the analysis.  The conversion of time from epoch dates to human-readable dates can be a bit confusing to use at the beginning. My approach was mainly trial and error. 
 
 ### Analysis of Outcome Based on Goals
 ![deliverable #2](https://github.com/LLudivina/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
