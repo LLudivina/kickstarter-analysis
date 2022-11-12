@@ -8,7 +8,7 @@ The purpose of this project is to create two Analyses, one with outcomes based o
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date 
-![deliverable #1](kickstarter-analysis/resources/Theater_Outcomes_vs_Launch.png)
+![deliverable #1](https://github.com/LLudivina/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 One of the difficulties that were encountered during this part of the analysis was the conversion of time from epoch dates to human-readable dates.  It can be a bit confusing to use the converter.  My approach was mainly trial and error. 
 
 ### Analysis of Outcome Based on Goals
