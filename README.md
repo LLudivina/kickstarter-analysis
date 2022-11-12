@@ -28,8 +28,8 @@ Based on the graph, Outcome Based on Launch Date, there are more successful camp
 
 Based on the graph, Outcome Based on Goals, Louise has a little under 60% chance of reaching her budget goal of over $10,000.
 
-Aside the results, this project had some limitations in the data.  For example, the current data has information from different countries, but each subgroup is somewhat small. It would be helpful if data from a larger sample size could be provided. Also, the outcomes based on launch date graph could benefit from a unit on the y-axis. The graph shows 0 to 120, but that could be the number of individual people or millions of people.  Since I used the data, I know the value, but it may not be so clear to Louise or someone else.
+Aside the results, this project had some limitations in the data.  For example, the current data has information from different countries, but each subgroup is somewhat small. It would be helpful if data from a larger sample size could be provided. Also, the Outcomes Based on Launch Date graph could benefit from a unit on the y-axis. The graph shows 0 to 120, but that could be the number of individual people or millions of people.  Since I used the data, I know the value, but it may not be so clear to Louise or someone else.
 
-Another graphs that can be created for this project is a bar chart to compare a successful vs failed campaign on a specific month.
+Another graph that can be created for this project is a bar chart to compare a successful vs failed campaign on a specific month.
 
 
