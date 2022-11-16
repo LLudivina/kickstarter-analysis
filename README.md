@@ -1,10 +1,10 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-An up-and-coming playwright, Louise, wants to start a crowdfunding campaign that can help fund her play called Fever.  She has estimated a budget of over $10,000 but needs help analyzing crowdfunding data.  To help her, I am organizing, sorting, and analyzing the crowdfunding data to determine if there are specific factors that make a project’s campaign successful.  Since Louise is now close to her fundraising goal, she would like to know how different campaigns performed in relation to their launch dates and funding goals. 
+An up-and-coming playwright, Louise, wants to start a crowdfunding campaign to fund her play called Fever.  She has estimated a budget of over $10,000 but needs help analyzing crowdfunding data.  To help her, I am organizing, sorting, and analyzing the crowdfunding data to determine if there are specific factors that make a project’s campaign successful.  Since Louise is now close to her fundraising goal, it would help her to know how different campaigns performed in relation to their launch dates and funding goals. 
 
 ### Purpose
-The purpose of this project is to create two analyses, one with outcomes based on launch date and one with outcomes based on goals. These analyses will help Louise mirror other successful ones in the same category.  
+The purpose of this project is to create two analyses, one with outcomes based on launch date and one with outcomes based on goals. These analyses will help Louise mirror other successful campaigns in the same category.  
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date 
