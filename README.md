@@ -10,27 +10,29 @@ The purpose of this project was to organize, sort, and analyze crowdfunding data
 ### Analysis of Outcomes Based on Launch Date 
 First, let’s look at the data for campaign outcomes based on their launch dates.  Figure 1 shows a pivot table with data that came from the kickstarter worksheet located in the local file that I had previously downloaded and renamed to KickStarter_Challenge.  I then used filters to select the theater category and extract the months from the original launch dates. Furthermore, Figure 1 shows data for the theater category that was arranged by months and one of three labels: successful, failed, or canceled. For example, a filter for the theater campaign category for the month of January resulted in 56 successful, 33 failed, and 7 canceled ones.
 
+**Figure 1**
 
 ![Figure 1](https://user-images.githubusercontent.com/115508896/202921935-ae5cacbe-07f9-49d2-abe5-f494982f4f92.png)
 
-**Figure 1**
-
 A better visualization of the data can be found in Figure 2, which shows the relationship between outcomes and launch month.  This second deliverable was created using a simple line chart on excel.  By using conditional formatting, I was also able to provide Louise with information at a glance. Based on the line graph, we can see on which specific months the campaigns were the most successful. In this case, it was early in the year and within the month of May.
 
-![deliverable #1](https://github.com/LLudivina/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 **Figure 2**
+
+![deliverable #1](https://github.com/LLudivina/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 As mentioned before, the months seen in both the pivot table (Figure 1) and the line graph (Figure 2) were extracted from the campaign dates found in the original source file. However, the campaign dates were not readable, so any Unix timestamps data was first confirmed and then converted using the timestamp converter. A unix timestamp converter had to be used and this was one of the difficulties that I encountered during this part of the analysis. The conversion of time from epoch dates to human-readable dates can be a bit confusing to use at the beginning. My approach was mainly trial and error int terms of tracking the allowed input for batch convert. 
 
 ### Analysis of Outcome Based on Goals
 Moving on to the second part of the Analysis, we will look at the process for the analysis of outcome based on goals.  Using the original source file, we created a new sheet titled outcomes based on goals. A range of goals was listed on the first column while the second, third, and fourth columns were filled in using the COUNTIFS () function on excel.  The SUM () function was then used to obtain the results for column five.  The percentages for the last three columns were also calculated.
 
-![Figure 3](https://user-images.githubusercontent.com/115508896/202922064-07d50247-1897-4e9e-92bf-0a2e699882a3.png)
 **Figure 3**
 
+![Figure 3](https://user-images.githubusercontent.com/115508896/202922064-07d50247-1897-4e9e-92bf-0a2e699882a3.png)
+
+
+**Figure 4**
 
 ![deliverable #2](https://github.com/LLudivina/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
-**Figure 4**
 
 Figure 4, shows the percent of campaigns that were successful, failed, or were canceled at a particular goal range.  This line chart helps visualize the relationship between the goal amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis. 
 
