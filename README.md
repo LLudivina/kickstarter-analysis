@@ -8,7 +8,7 @@ The purpose of this project was to organize, sort, and analyze crowdfunding data
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date 
-First, let’s look at the data for campaign outcomes based on their launch dates.  Figure 1 shows a pivot table with data that came from the kickstarter worksheet located in the local file that I had previously downloaded and renamed to KickStarter_Challenge.  I then used filters to select the theater category and extract the months from the original launch dates. Furthermore, Figure 1 shows data for the theater category that was arranged by months and one of three labels: successful, failed, or canceled. For example, a filter for the theater campaign category for the month of January resulted in 56 successful, 33 failed, and 7 canceled ones.
+First, let’s look at the data for campaign outcomes based on their launch dates.  Figure 1 shows a pivot table with data that from the kickstarter worksheet located in the local file that I had previously downloaded and renamed to KickStarter_Challenge.  I then used filters to select the theater category and extract the months from the original launch dates. Furthermore, Figure 1 shows data for the theater category that was arranged by months and one of three labels: successful, failed, or canceled. For example, a filter for the theater campaign category for the month of January resulted in 56 successful, 33 failed, and 7 canceled ones.
 
 **Figure 1**
 
