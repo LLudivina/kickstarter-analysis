@@ -1,10 +1,10 @@
 # Kickstarting with Excel
 
 ## Overview of Project 
-For this module 1 challenge, we were tasked with helping Louise analyze crowdfunding data. Louise is an up-and-coming playwright who started a crowdfunding campaign to fund her play called “Fever”.  Since Louise is now close to her fundraising goal of over $10,000, she would like to know how different campaigns performed in relation to their launch dates and their funding goals.  To help Louise, I downloaded the dataset workbook host file provided to us and created a local file that could be more readable and searchable with excel tools. In the end, I was able to examine the crowdfunding data to determine if there were specific factors that make a project’s campaign successful, by organizing, sorting, and analyzing the data. 
+For this module 1 challenge, we were tasked with helping Louise analyze crowdfunding data. Louise is an up-and-coming playwright who started a crowdfunding campaign to fund her play called “Fever”.  Since Louise is now close to her fundraising goal of over $10,000, she would like to know how different campaigns perform in relation to their launch dates and their funding goals.  To help Louise, I downloaded the dataset workbook host file provided to us and created a local file that could be more readable and searchable with excel tools. In the end, I was able to examine the crowdfunding data to determine if there were specific factors that make a project’s campaign successful.
 
 ## Purpose
-The purpose of this project was to visualize campaign outcomes based on their launch dates and campaign outcomes based on their funding goals.  This visual analysis could potentially help Louise launch a successful campaign by mirroring other successful campaigns in the same category.
+The purpose of this project was to organize, sort, and analyze crowdfunding data to present a visual analysis of campaign outcomes based on their launch dates and campaign outcomes based on their funding goals for Louise.  This visual analysis could potentially help Louise launch a successful campaign by mirroring other successful campaigns in the same category.
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date 
