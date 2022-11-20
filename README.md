@@ -14,7 +14,7 @@ First, let’s look at the data for campaign outcomes based on their launch date
 
 ![Figure 1](https://user-images.githubusercontent.com/115508896/202921935-ae5cacbe-07f9-49d2-abe5-f494982f4f92.png)
 
-A better visualization of the data can be found in Figure 2, which shows the relationship between outcomes and launch month.  This deliverable was created using a simple line chart on excel.  By using conditional formatting, I was also able to provide Louise with information at a glance. Based on the line graph, we can see on which specific months the campaigns were the most successful. In this case, it was early in the year and within the month of May.
+A better visualization of the data can be found in Figure 2, which shows the relationship between outcomes and launch month.  This deliverable was created using a simple line chart on excel.  By using conditional formatting, I was also able to provide Louise with information at a glance. Based on the line graph, we can see on which specific months the campaigns were the most successful. In this case, it was early in the year in February and within the month of May.
 
 **Figure 2**
 
