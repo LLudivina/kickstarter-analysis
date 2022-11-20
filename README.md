@@ -15,7 +15,7 @@ First, let’s look at the data for campaign outcomes based on their launch date
 
 **Figure 1**
 
-A better visualization of the data can be found in Figure 2, which shows the relationship between outcomes and launch month.  By looking atthe line graph, we can see on which specific months the campaigns were the most successful. In this case, it was early in the year and within the month of May.
+A better visualization of the data can be found in Figure 2, which shows the relationship between outcomes and launch month.  By looking at the line graph, we can see on which specific months the campaigns were the most successful. In this case, it was early in the year and within the month of May.
 
 ![deliverable #1](https://github.com/LLudivina/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 **Figure 2**
